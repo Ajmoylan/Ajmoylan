@@ -55,10 +55,7 @@ https://github.com/Ajmoylan/skyscout-weather-app
 ## GitHub Activity
 
 <p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=Ajmoylan&show_icons=true&hide_border=true"
-  />
+  <img height="150" src="https://streak-stats.demolab.com?user=Ajmoylan&hide_border=true" />
 </p>
 
 <p align="center">
